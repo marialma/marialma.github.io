@@ -1,6 +1,4 @@
 # Maria Ma, MPH
-Placeholder for a portfolio page
-
 Hi, I'm Maria Ma. I got my MPH from the [UC Berkeley School of Public Health](http://sph.berkeley.edu/), with a focus in [Infectious Disease and Vaccinology](http://microbe.berkeley.edu). My undergraduate degree was in [Microbiology](http://microbiology.ucdavis.edu).
 
 My interests are, broadly, in improving healthcare. I'm interested in impact evaluation, improving quality of care, and cost effectiveness. My more academic interests are in disease modeling, outbreak predictions, and combatting antimicrobial resistance. I'm also interested in setting foot in the health technology innovation space. 
@@ -10,6 +8,8 @@ This page is intended as a space where I can showcase what I am learning about d
 Among the projects I have squirreled away here are:
 * [My comprehensive Masters paper](https://github.com/marialma/Capstone-Paper)
 * [An ongoing effort to better understand the 2017 Cholera epidemic in Yemen](https://github.com/marialma/2017-Cholera-in-Yemen)
+
+My Tableau Public account is [here](https://public.tableau.com/profile/maria.ma5849#!), where you can browse some of the things I've worked on.
 
 I am based in the San Francisco Bay Area, and am currently looking for work. 
 
