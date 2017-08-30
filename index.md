@@ -1,5 +1,6 @@
- # Maria Ma, MPH
-  Placeholder for a portfolio page
+ #Maria Ma, MPH
+ 
+ Placeholder for a portfolio page
   
  Hi, I'm Maria Ma. I got my MPH from the [UC Berkeley School of Public Health](http://sph.berkeley.edu/), with a focus in [Infectious Disease and Vaccinology](http://microbe.berkeley.edu). My undergraduate degree was in [Microbiology](http://microbiology.ucdavis.edu).
   
