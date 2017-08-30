@@ -7,6 +7,10 @@ My interests are, broadly, in improving healthcare. I'm interested in impact eva
 
 This page is intended as a space where I can showcase what I am learning about data visualizations among other things.
 
+Among the projects I have squirreled away here are:
+* [My comprehensive Masters paper](https://github.com/marialma/Capstone-Paper)
+* [An ongoing effort to better understand the 2017 Cholera epidemic in Yemen](https://github.com/marialma/2017-Cholera-in-Yemen)
+
 I am based in the San Francisco Bay Area, and am currently looking for work. 
 
 In my past life, I was a synthetic biologist working on filamentous fungi and yeast, [making](https://www.google.com/patents/WO2016062857A1?cl=pt) [enzymes](http://www.google.com.pg/patents/WO2016062855A1?cl=en).
