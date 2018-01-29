@@ -18,3 +18,5 @@ Among the projects I have squirreled away here are:
 * [Looking at gonorrhea trends in Santa Cruz](https://github.com/marialma/Santa_Cruz_CGSS) 
 
 My Tableau Public account is [here](https://public.tableau.com/profile/maria.ma5849#!), where you can browse some of the other things I've worked on. 
+
+My [Twitter feed is here](https://twitter.com/guacamolebio), where I save links to things I enjoyed reading, and talk about healthcare/health systems, infectious disease, and small amounts of economics. Apologies in advance for the occasional political post. 
