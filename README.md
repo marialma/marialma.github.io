@@ -6,7 +6,7 @@ In my past life, I was a synthetic biologist working on filamentous fungi and ye
 I am based in the San Francisco Bay Area, and am currently looking for work. 
 
 ### Interests
-My interests are, broadly, in improving healthcare. I'm interested in impact evaluation, improving quality of care, and cost effectiveness. My more academic interests are in disease modeling, outbreak predictions, and combatting antimicrobial resistance. I'm also interested in setting foot in the health technology innovation space. 
+My interests can be broadly described as fighting three of the four horsemen of the apocalypse - disease, war, and famine. I'm interested in impact evaluation, improving quality of care, and cost effectiveness, as well as using health technology to augment these goals. My more academic interests are in disease modeling, outbreak predictions, and combating antimicrobial resistance. 
 
 ### Projects 
 This page is intended as a space where I can showcase what I am learning about data visualizations among other things. 
