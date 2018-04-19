@@ -17,6 +17,8 @@ Among the projects I have squirreled away here are:
 * [An effort to model the 2017 Hepatitis A Virus outbreak in Santa Cruz](https://github.com/marialma/2017-Santa-Cruz-HAV-Modeling)
 * [Looking at gonorrhea trends in Santa Cruz](https://github.com/marialma/Santa_Cruz_CGSS) 
 
+I'm compiling a list of robust, publically available data sources. You can find that [here](https://marialma.github.io/Public-Data-Sets/). 
+
 My [Medium account is here](https://medium.com/@maria.ma), where I try to write things for public health. My intended audience is both public health people and the general public. 
 
 My [Tableau Public account is here](https://public.tableau.com/profile/maria.ma5849#!), where you can browse some of the other things I've worked on. 
