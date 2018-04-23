@@ -20,6 +20,9 @@ Among the projects I have squirreled away here are:
 I'm compiling a list of robust, publically available data sources. You can find that [here](https://marialma.github.io/Public-Data-Sets/). 
 
 ### Where else to find me
+
+My [LinkedIn is here](https://www.linkedin.com/in/marialma/), but you can also find [my resume here](http://marialma.github.io/Maria_Ma_Resume.pdf).
+
 My [Medium account is here](https://medium.com/@maria.ma), where I try to write things for public health. My intended audience is both public health people and the general public. 
 
 My [Tableau Public account is here](https://public.tableau.com/profile/maria.ma5849#!), where you can browse some of the other things I've worked on. 
