@@ -13,9 +13,12 @@ This page is intended as a space where I can showcase what I am learning about d
 
 Among the projects I have squirreled away here are:
 * [My comprehensive Masters paper](https://github.com/marialma/Capstone-Paper)
+* [An interactive simple model to understand disease dynamics](https://marialma.shinyapps.io/shinyflu/)
 * [An ongoing effort to better understand the 2017 Cholera epidemic in Yemen](https://github.com/marialma/2017-Cholera-in-Yemen)
 * [An effort to model the 2017 Hepatitis A Virus outbreak in Santa Cruz](https://github.com/marialma/2017-Santa-Cruz-HAV-Modeling)
-* [Looking at gonorrhea trends in Santa Cruz](https://github.com/marialma/Santa_Cruz_CGSS) 
+* [Looking at gonorrhea trends in Santa Cruz](https://github.com/marialma/Santa_Cruz_CGSS)
+
+Most of these projects are very much still in progress, and I work on them when I can.
 
 I'm compiling a list of robust, publically available data sources. You can find that [here](https://marialma.github.io/Public-Data-Sets/). 
 
