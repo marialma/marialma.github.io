@@ -12,11 +12,17 @@ My interests can be broadly described as fighting three of the four horsemen of 
 This page is intended as a space where I can showcase what I am learning about data visualizations among other things. 
 
 Among the projects I have squirreled away here are:
+
+These things are mostly finished:
 * [My comprehensive Masters paper](https://github.com/marialma/Capstone-Paper)
-* [An interactive simple model to understand disease dynamics](https://marialma.shinyapps.io/shinyflu/)
-* [An ongoing effort to better understand the 2017 Cholera epidemic in Yemen](https://github.com/marialma/2017-Cholera-in-Yemen)
-* [An effort to model the 2017 Hepatitis A Virus outbreak in Santa Cruz](https://github.com/marialma/2017-Santa-Cruz-HAV-Modeling)
-* [Looking at gonorrhea trends in Santa Cruz](https://github.com/marialma/Santa_Cruz_CGSS)
+* [An interactive simple model to understand disease dynamics](https://marialma.shinyapps.io/shinyflu/) 
+* [Tidy Tuesday Submissions](https://github.com/marialma/TidyTuesday) - I participate in [#TidyTuesday](https://github.com/rfordatascience/tidytuesday/blob/master/README.md), a weekly data project.
+
+These are things I have a lot of interest in and are still working on:
+* [Hospital closures and rural access project](https://github.com/marialma/small-things/tree/master/urgent_care_project)
+* [An ongoing effort to better understand the 2017 Cholera epidemic in Yemen](https://github.com/marialma/2017-Cholera-in-Yemen) 
+* [Poking around the 2017 US Hepatitis A outbreak](https://github.com/marialma/2017-Santa-Cruz-HAV-Modeling) 
+* [Looking at gonorrhea trends in Santa Cruz](https://github.com/marialma/Santa_Cruz_CGSS) 
 
 Most of these projects are very much still in progress, and I work on them when I can.
 
