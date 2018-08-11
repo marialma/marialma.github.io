@@ -15,11 +15,11 @@ Among the projects I have squirreled away here are:
 
 These things are mostly finished:
 * [My comprehensive Masters paper](https://github.com/marialma/Capstone-Paper)
+* [Hospital closures and rural access project](https://github.com/marialma/small-things/tree/master/urgent_care_project) - [Write up is here](https://medium.com/@maria.ma/urgent-care-access-in-the-united-states-rural-hospital-closures-8a68c4ae612)
 * [An interactive simple model to understand disease dynamics](https://marialma.shinyapps.io/shinyflu/) 
 * [Tidy Tuesday Submissions](https://github.com/marialma/TidyTuesday) - I participate in [#TidyTuesday](https://github.com/rfordatascience/tidytuesday/blob/master/README.md), a weekly data project.
 
 These are things I have a lot of interest in and are still working on:
-* [Hospital closures and rural access project](https://github.com/marialma/small-things/tree/master/urgent_care_project)
 * [An ongoing effort to better understand the 2017 Cholera epidemic in Yemen](https://github.com/marialma/2017-Cholera-in-Yemen) 
 * [Poking around the 2017 US Hepatitis A outbreak](https://github.com/marialma/2017-Santa-Cruz-HAV-Modeling) 
 * [Looking at gonorrhea trends in Santa Cruz](https://github.com/marialma/Santa_Cruz_CGSS) 
