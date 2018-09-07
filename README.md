@@ -3,7 +3,7 @@ Hi, I'm Maria Ma. I got my MPH from the [UC Berkeley School of Public Health](ht
 
 In my past life, I was a synthetic biologist working on filamentous fungi and yeast, [making](https://www.google.com/patents/WO2016062857A1?cl=pt) [enzymes](http://www.google.com.pg/patents/WO2016062855A1?cl=en).
 
-I am based in the San Francisco Bay Area, and am currently looking for work. Email me at maria.ma at berkeley.edu.
+I am based in the San Francisco Bay Area, and am currently looking for work. Email me at i.am.maria.ma at gmail.
 
 ### Interests
 My interests can be broadly described as fighting three of the four horsemen of the apocalypse - disease, war, and famine. I'm interested in impact evaluation, improving quality of care, and cost effectiveness, as well as using health technology to augment these goals. My more academic interests are in disease modeling/outbreak predictions, conflict mapping, and combatting antimicrobial resistance. 
