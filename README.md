@@ -22,7 +22,7 @@ These things are mostly finished:
 * [Tidy Tuesday Submissions](https://github.com/marialma/TidyTuesday) 
     - I participate in [#TidyTuesday](https://github.com/rfordatascience/tidytuesday/blob/master/README.md), a weekly data project.
 * [An ongoing effort to better understand the 2017 Cholera epidemic in Yemen](https://github.com/marialma/2017-Cholera-in-Yemen) 
-    - [Write up/ first output is here, on my Medium account](https://medium.com/@maria.ma/progression-of-the-ongoing-cholera-outbreak-in-yemen-4d370b38afac)
+    - [Write up/ first output is here](https://medium.com/@maria.ma/progression-of-the-ongoing-cholera-outbreak-in-yemen-4d370b38afac)
 
 These are things I have a lot of interest in and are still working on:
 * [Poking around the 2017 US Hepatitis A outbreak](https://github.com/marialma/2017-Santa-Cruz-HAV-Modeling) 
