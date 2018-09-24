@@ -13,22 +13,11 @@ This page is intended as a space where I can showcase what I am learning about d
 
 Among the projects I have squirreled away here are:
 
-These things are mostly finished:
 * [My comprehensive Masters paper](https://github.com/marialma/Capstone-Paper)
-* [Hospital closures and rural access project](https://github.com/marialma/small-things/tree/master/urgent_care_project) 
-    - [Write up is here](https://medium.com/@maria.ma/urgent-care-access-in-the-united-states-rural-hospital-closures-8a68c4ae612)
-* [An interactive simple model](https://marialma.shinyapps.io/shinyflu/) 
-    - Created as an interactive supplement for [a short essay on why you should still get your flu vaccination](https://medium.com/@maria.ma/always-get-your-flu-shot-9333df389fe2)
-* [Tidy Tuesday Submissions](https://github.com/marialma/TidyTuesday) 
-    - I participate in [#TidyTuesday](https://github.com/rfordatascience/tidytuesday/blob/master/README.md), a weekly data project.
-* [An ongoing effort to better understand the 2017 Cholera epidemic in Yemen](https://github.com/marialma/2017-Cholera-in-Yemen) 
-    - [Write up/ first output is here](https://medium.com/@maria.ma/progression-of-the-ongoing-cholera-outbreak-in-yemen-4d370b38afac)
-
-These are things I have a lot of interest in and are still working on:
-* [Poking around the 2017 US Hepatitis A outbreak](https://github.com/marialma/2017-Santa-Cruz-HAV-Modeling) 
-* [Looking at gonorrhea trends in Santa Cruz](https://github.com/marialma/Santa_Cruz_CGSS) 
-
-Most of these projects are still in progress, and I work on them when I can.
+* [Hospital closures and rural access project](https://github.com/marialma/small-things/tree/master/urgent_care_project) - [Write up here](https://medium.com/@maria.ma/urgent-care-access-in-the-united-states-rural-hospital-closures-8a68c4ae612) - A project using Python and R to look at access to emergency care across the US
+* [An interactive simple model](https://marialma.shinyapps.io/shinyflu/) - A supplement to this [write up](https://medium.com/@maria.ma/always-get-your-flu-shot-9333df389fe2), about why you should get your flu vaccination.
+* [Tidy Tuesday Submissions](https://github.com/marialma/TidyTuesday)  - occasional explorations for [#TidyTuesday](https://github.com/rfordatascience/tidytuesday/blob/master/README.md) 
+* [An ongoing effort to better understand the 2017 Cholera epidemic in Yemen](https://github.com/marialma/2017-Cholera-in-Yemen) - [Write up here](https://medium.com/@maria.ma/progression-of-the-ongoing-cholera-outbreak-in-yemen-4d370b38afac) - A project using R to clean up and visualize data related to the ongoing cholera epidemic in Yemen.
 
 I'm compiling a list of robust, publically available data sources. You can find that [here](https://marialma.github.io/Public-Data-Sets/). 
 
