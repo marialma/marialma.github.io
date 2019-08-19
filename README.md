@@ -3,13 +3,13 @@ Hi, I'm Maria Ma. I got my MPH from the [UC Berkeley School of Public Health](ht
 
 In my past life, I was a synthetic biologist working on filamentous fungi and yeast, [making](https://www.google.com/patents/WO2016062857A1?cl=pt) [enzymes](http://www.google.com.pg/patents/WO2016062855A1?cl=en).
 
-I am based in the San Francisco Bay Area, and am currently looking for work. Email me at i.am.maria.ma at gmail.
+I am based in the San Francisco Bay Area, and am currently [working for a digital global health nonprofit](http://medicmobile.org) as an Impact Specialist/Analyst. Email me at i.am.maria.ma at gmail.
 
 ### Interests
 My interests can be broadly described as fighting three of the four horsemen of the apocalypse - disease, war, and famine. I'm interested in impact evaluation, improving quality of care, and cost effectiveness, as well as using health technology to augment these goals. My more academic interests are in disease modeling/outbreak predictions, conflict mapping, and combatting antimicrobial resistance. 
 
 ### Projects 
-This page is intended as a space where I can showcase what I am learning about data visualizations among other things. 
+This page is intended as a space where I can showcase what I am learning about data visualizations among other things. Most of my code these days is written for work. 
 
 Among the projects I have squirreled away here are:
 
