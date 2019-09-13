@@ -23,7 +23,9 @@ I'm compiling a list of robust, publically available data sources. You can find 
 
 ### Where else to find me
 
-I run a [weekly newsletter](https://tinyletter.com/guacamolebio) on public health and global development. Check out my [archives](https://tinyletter.com/guacamolebio/archive)!
+I run a [weekly newsletter](https://tinyletter.com/guacamolebio) on public health and global development. Check out my [archives](https://tinyletter.com/guacamolebio/archive)! *On Hiatus*
+
+I run a bimonthly global/public health meetup in the SF Bay Area. Email me to find out more!
 
 My [LinkedIn is here](https://www.linkedin.com/in/marialma/).
 
