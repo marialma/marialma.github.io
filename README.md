@@ -32,5 +32,3 @@ My [LinkedIn is here](https://www.linkedin.com/in/marialma/).
 My [Medium account is here](https://medium.com/@maria.ma), where I try to write things for public health. My intended audience is both public health people and the general public. 
 
 My [Tableau Public account is here](https://public.tableau.com/profile/maria.ma5849#!), where you can browse some of the other things I've worked on. 
-
-My [Twitter feed is here](https://twitter.com/guacamolebio), where I save links to things I enjoyed reading, and talk about healthcare/health systems, infectious disease, global issues, and small amounts of economics. Apologies in advance for the occasional political post; it is difficult to separate politics from healthcare in this time. 
