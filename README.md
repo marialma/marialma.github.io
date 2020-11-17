@@ -1,12 +1,18 @@
 
-Hi, I'm Maria Ma. I got my MPH from the [UC Berkeley School of Public Health](http://sph.berkeley.edu/), with a focus in [Infectious Disease and Vaccinology](http://microbe.berkeley.edu). My undergraduate degree was in [Microbiology](http://microbiology.ucdavis.edu).
+Hi, I'm Maria Ma. I got my MPH from the [UC Berkeley School of Public Health](http://sph.berkeley.edu/), with a focus in [Infectious Disease and Vaccinology](http://microbe.berkeley.edu). I took a bunch of classes in the [Epidemiology department](https://grad.berkeley.edu/program/epidemiology/). My undergraduate degree was in [Microbiology](http://microbiology.ucdavis.edu).
 
 In my past life, I was a synthetic biologist working on filamentous fungi and yeast, [making](https://www.google.com/patents/WO2016062857A1?cl=pt) [enzymes](http://www.google.com.pg/patents/WO2016062855A1?cl=en).
 
 I am based in the San Francisco Bay Area, and am currently [working for a digital global health nonprofit](http://medicmobile.org) as an Impact Specialist/Analyst. Email me at i.am.maria.ma at gmail.
 
+## What I'm Good At
+The thing I'm best at is designing elegant studies, using both observational data and setting up data collection. This mostly means I'm great at thinking about *causal inference*. 
+I'm also pretty good at *R (tidyverse and ggplot)*, and *data visualization*. I approach all of my work with failure mode analysis always in the back of my head. Healthcare is my domain; I see it as my duty to make sure we don't harm people. 
+
+I speak conversational Mandarin Chinese, I understand Shanghainese, and I'm slowly learning Swahili and French. 
+
 ### Interests
-My interests can be broadly described as fighting three of the four horsemen of the apocalypse - disease, war, and famine. I'm interested in impact evaluation, improving quality of care, and cost effectiveness, as well as using health technology to augment these goals. My more academic interests are in disease modeling/outbreak predictions, conflict mapping, and combatting antimicrobial resistance. 
+My interests can be broadly described as fighting three of the four horsemen of the apocalypse - disease, war, and famine. I'm interested in improving quality of care, and I believe in the promise of technology to achieve this. I think geospatial + satellite data is currently the only place where we can truly do global health data science. My more academic interests are in disease modeling/outbreak predictions, conflict mapping, and combatting antimicrobial resistance. 
 
 ### Projects 
 This page is intended as a space where I can showcase what I am learning about data visualizations among other things. Most of my code these days is written for work. 
