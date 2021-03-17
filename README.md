@@ -18,10 +18,10 @@ I really like Sankey diagrams.
 
 I speak conversational Mandarin Chinese, I understand Shanghainese, and I'm slowly learning Swahili and French. 
 
-### Interests
-I'm interested in improving quality of care, and I believe in the promise of technology to achieve this.
+## Interests
+I'm interested in improving quality of healthcare, and I believe in the promise of technology to achieve this.
 
-### Projects 
+## Projects 
 This page is intended as a space where I can showcase what I am learning about data visualizations among other things. Most of my code these days is written for work. 
 
 
@@ -39,7 +39,7 @@ This page is intended as a space where I can showcase what I am learning about d
 
 I'm compiling a list of robust, publically available data sources. You can find that [here](https://marialma.github.io/Public-Data-Sets/). 
 
-### Where else to find me
+## Where else to find me
 
 I run a [weekly newsletter](https://tinyletter.com/guacamolebio) on public health and global development. Check out my [archives](https://tinyletter.com/guacamolebio/archive)! *On Hiatus*
 
