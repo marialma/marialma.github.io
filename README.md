@@ -3,7 +3,7 @@ Hi, I'm Maria Ma. I got my MPH from the [UC Berkeley School of Public Health](ht
 
 In my past life, I was a synthetic biologist working on filamentous fungi and yeast, [making](https://www.google.com/patents/WO2016062857A1?cl=pt) [enzymes](http://www.google.com.pg/patents/WO2016062855A1?cl=en).
 
-I am based in the San Francisco Bay Area, and am currently working as a contractor for LA County Department of Public Health. Previously, I [worked for a digital global health nonprofit](http://medicmobile.org) as an Data Scientist. Email me at i.am.maria.ma at gmail.
+I am based in the San Francisco Bay Area, and am currently working as a contract Epidemiologist for LA County Department of Public Health. Previously, I [worked for a digital global health nonprofit](http://medicmobile.org) as an Data Scientist. Email me at i.am.maria.ma at gmail.
 
 ## What I Do
 I move numbers around, deduplicate records, set up automation. I write reproducible statistical analysis code (R), turn data into figures, then write about those figures in the most accessible way I can. Sometimes, I turn these into packages for internal use. Most of what I do is data cleaning. A lot of the data in the sector I'm currently employed in is not ready for big time data science tools; it's a big enough problem to understand data quality, let alone do machine learning.
@@ -22,8 +22,12 @@ I speak conversational Mandarin Chinese, I understand Shanghainese, and I'm slow
 I'm interested in improving quality of healthcare, and I believe in the promise of technology to achieve this.
 
 ## Projects 
-This page is intended as a space where I can showcase what I am learning about data visualizations among other things. Most of my code these days is written for work. 
 
+* [bakeR](https://github.com/marialma/bakeR)
+  * A function to help scale up or scale down recipes
+
+* [COVID-19 Outcomes by Vaccination Status](http://dashboard.publichealth.lacounty.gov/outcomes_by_vaccination_status/)
+  * A dashboard I built for LA County. 
 
 * [Synthetic Health Data with Agent Based Models](https://github.com/marialma/ABM-synth-data) 
   *   Agent based models/ "state machines" seem to me to be the most reasonable and reliable way to generate synthetic health data. Using existing machine learning approaches can generate flawed data that doesn't make sense due to a time & state-dependent componnt, eg, a woman giving birth shortly after having a miscarriage. Existing simulation models work off of robust data sources which are also generally tailored for a Global North context. The data we often see in rural settings in the Global South is much less rich and often has significant gaps. This project is in progress, my goal is to try to generate a synthetic dataset that also mimics the *missingness* of the data. A synthetic dataset such as this could help people build and test tools (and maybe even algorithms) without potentially exposing real peoples' health data. 
@@ -42,8 +46,6 @@ I'm compiling a list of robust, publically available data sources. You can find 
 ## Where else to find me
 
 I run a [weekly newsletter](https://tinyletter.com/guacamolebio) on public health and global development. Check out my [archives](https://tinyletter.com/guacamolebio/archive)! *On Hiatus*
-
-I run a bimonthly global/public health meetup in the SF Bay Area. Email me to find out more!
 
 My [LinkedIn is here](https://www.linkedin.com/in/marialma/).
 
