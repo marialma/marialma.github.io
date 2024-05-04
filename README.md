@@ -24,9 +24,6 @@ I'm interested in improving quality of healthcare, and I believe in the promise 
 
 ## Projects 
 
-* [bakeR](https://github.com/marialma/bakeR)
-  * A function to help scale up or scale down recipes
-
 * [COVID-19 Outcomes by Vaccination Status](http://dashboard.publichealth.lacounty.gov/outcomes_by_vaccination_status/)
   * A dashboard I built for LA County. 
 
@@ -44,6 +41,14 @@ I'm interested in improving quality of healthcare, and I believe in the promise 
 
 I'm compiling a list of robust, publically available data sources. You can find that [here](https://marialma.github.io/Public-Data-Sets/). 
 
+## Other projects (for fun)
+
+* [sea_forager](https://github.com/marialma/sea_forager)
+  * A function that scrapes tide-forecast.com to look for the best upcoming times for tidal foraging.
+
+* [bakeR](https://github.com/marialma/bakeR)
+  * A function to help scale up or scale down recipes
+
 ## Where else to find me
 
 My [LinkedIn is here](https://www.linkedin.com/in/marialma/).
@@ -51,6 +56,3 @@ My [LinkedIn is here](https://www.linkedin.com/in/marialma/).
 My [Medium account is here](https://maria-ma.medium.com/), where I try to write things about public health and R. 
 
 My [Tableau Public account is here](https://public.tableau.com/profile/maria.ma5849#!), where you can browse some of the other things I've worked on. 
-
-### Extra bonus!
-I wrote a piece of [public health fan fiction](https://maria-ma.medium.com/jon-snow-and-the-mystery-of-the-broad-street-curse-481b59903f55) that I am inordinately proud of. It utilizes epidemiological concepts and takes inspiration from real-world events... as well as a particular pun involving the father of epidemiology and a Game of Thrones character.
