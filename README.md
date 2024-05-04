@@ -1,14 +1,15 @@
 
 Hi, I'm Maria Ma. I got my MPH from the [UC Berkeley School of Public Health](http://sph.berkeley.edu/), with a focus in [Infectious Disease and Vaccinology](http://microbe.berkeley.edu). I took a bunch of classes in the [Epidemiology department](https://grad.berkeley.edu/program/epidemiology/). My undergraduate degree was in [Microbiology](http://microbiology.ucdavis.edu).
 
-In my past life, I was a synthetic biologist working on filamentous fungi and yeast, [making](https://www.google.com/patents/WO2016062857A1?cl=pt) [enzymes](http://www.google.com.pg/patents/WO2016062855A1?cl=en).
+In my past life, I was a synthetic biologist working on filamentous fungi and yeast, [making](https://www.google.com/patents/WO2016062857A1?cl=pt) [enzymes](http://www.google.com.pg/patents/WO2016062855A1?cl=en) and [yeast](https://ethanolproducer.com/articles/dupont-launches-synerxia-fermentation-system-13456))
 
-I am based in the San Francisco Bay Area, and am currently working as a contract Epidemiologist for LA County Department of Public Health. Previously, I [worked for a digital global health nonprofit](http://medicmobile.org) as an Data Scientist. Email me at i.am.maria.ma at gmail.
+I am based in the San Francisco Bay Area, and am currently working as a data analyst for the value-based care company [Aledade](https://aledade.com/). Previously, I was an Epidemiologist for [LA County Department of Public Health](http://publichealth.lacounty.gov/), and a Data Scientist/ Impact Analyst at a [global health nonprofit](http://medicmobile.org). Email me at i.am.maria.ma at gmail.
 
 ## What I Do
-I move numbers around, deduplicate records, set up automation. I write reproducible statistical analysis code (R), turn data into figures, then write about those figures in the most accessible way I can. Sometimes, I turn these into packages for internal use. Most of what I do is data cleaning. A lot of the data in the sector I'm currently employed in is not ready for big time data science tools; it's a big enough problem to understand data quality, let alone do machine learning.
+I move numbers around, deduplicate records, set up automation. I write reproducible statistical analysis code (R), turn data into figures, then write about those figures in the most accessible way I can. Sometimes, I turn these into packages for internal use. Most of what I do is data cleaning and setting up adhoc "databases".
 
-I also do analyses to drive product improvements, and create trainings to help the organization become more data driven.
+I like creating tools for other people to use, to help the organization use their data better. This includes both dashboards and other automation tools, using whatever interface is most accessible to my teammates. My current work has me in a role where much of that work is done with Google Sheets and Microsoft Excel. 
+* *PS: I am very good at Google Sheets*
 
 ## What I'm Good At
 I love designing elegant studies, using both observational data and setting up data collection. This mostly means I'm great at thinking about *causal inference*. 
@@ -16,7 +17,7 @@ I'm also pretty good at *R (tidyverse and ggplot)*, and *data visualization*. I 
 
 I really like Sankey diagrams. 
 
-I speak conversational Mandarin Chinese, I understand Shanghainese, and I'm slowly learning Swahili and French. 
+I speak conversational Mandarin Chinese, I understand Shanghainese, and I'm slowly learning French. 
 
 ## Interests
 I'm interested in improving quality of healthcare, and I believe in the promise of technology to achieve this.
@@ -44,8 +45,6 @@ I'm interested in improving quality of healthcare, and I believe in the promise 
 I'm compiling a list of robust, publically available data sources. You can find that [here](https://marialma.github.io/Public-Data-Sets/). 
 
 ## Where else to find me
-
-I run a [weekly newsletter](https://tinyletter.com/guacamolebio) on public health and global development. Check out my [archives](https://tinyletter.com/guacamolebio/archive)! *On Hiatus*
 
 My [LinkedIn is here](https://www.linkedin.com/in/marialma/).
 
