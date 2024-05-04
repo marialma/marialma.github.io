@@ -1,7 +1,7 @@
 
 Hi, I'm Maria Ma. I got my MPH from the [UC Berkeley School of Public Health](http://sph.berkeley.edu/), with a focus in [Infectious Disease and Vaccinology](http://microbe.berkeley.edu). I took a bunch of classes in the [Epidemiology department](https://grad.berkeley.edu/program/epidemiology/). My undergraduate degree was in [Microbiology](http://microbiology.ucdavis.edu).
 
-In my past life, I was a synthetic biologist working on filamentous fungi and yeast, [making](https://www.google.com/patents/WO2016062857A1?cl=pt) [enzymes](http://www.google.com.pg/patents/WO2016062855A1?cl=en) and [yeast](https://ethanolproducer.com/articles/dupont-launches-synerxia-fermentation-system-13456))
+In my past life, I was a synthetic biologist working on filamentous fungi and yeast, [making](https://www.google.com/patents/WO2016062857A1?cl=pt) [enzymes](http://www.google.com.pg/patents/WO2016062855A1?cl=en) and [yeast](https://ethanolproducer.com/articles/dupont-launches-synerxia-fermentation-system-13456).
 
 I am based in the San Francisco Bay Area, and am currently working as a data analyst for the value-based care company [Aledade](https://aledade.com/). Previously, I was an Epidemiologist for [LA County Department of Public Health](http://publichealth.lacounty.gov/), and a Data Scientist/ Impact Analyst at a [global health nonprofit](http://medicmobile.org). Email me at i.am.maria.ma at gmail.
 
